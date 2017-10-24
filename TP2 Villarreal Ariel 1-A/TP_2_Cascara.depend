@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1506121977 source:c:\users\arielskap\downloads\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506123187 c:\users\arielskap\downloads\tp_2_cascara\funciones.h
+
+1506123124 source:c:\users\arielskap\downloads\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506109052 source:c:\users\arielskap\downloads\tp_laboratorio_1-master\tp2 villarreal ariel 1-a\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506109052 c:\users\arielskap\downloads\tp_laboratorio_1-master\tp2 villarreal ariel 1-a\funciones.h
+
+1506109052 source:c:\users\arielskap\downloads\tp_laboratorio_1-master\tp2 villarreal ariel 1-a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
